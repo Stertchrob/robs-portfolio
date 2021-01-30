@@ -139,12 +139,6 @@
                     <div class="col-lg-4 mr-auto"><p class="lead">I have experience working with ebay's API and integrating company products on their platform. I also have experience with wordpress, and their woocommerce plugin.</p></div>
                 </div>
                 <!-- About Section Button-->
-                <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-                        <i class="fas fa-download mr-2"></i>
-                        Free Download!
-                    </a>
-                </div>
             </div>
         </section>
         <!-- Contact Section-->
