@@ -49,7 +49,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">PHP Backend Developer | 2+ years MySQL | 3+ years HTML | 3+ years Javascript | 1 years Node.js</p>
+                <p class="masthead-subheading font-weight-light mb-0">3+ years PHP Backend Developer | 2+ years MySQL | 3+ years HTML | 3+ years Javascript | 1 year Node.js</p>
             </div>
         </header>
         <!-- Portfolio Section-->
@@ -135,8 +135,8 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div class="col-lg-4 ml-auto"><p class="lead">I am a motivated developer that can handle all your backend needs. I have experience managing the web development for Wheels America, where I oversaw all of their web applications.</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead">I have experience working with ebay's API and integrating company products on their platform. I also have experience with wordpress, and their woocommerce plugin.</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
@@ -214,7 +214,7 @@
                     </div>
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <h4 class="text-uppercase mb-4">Around the Web</h4>
+                        <h4 class="text-uppercase mb-4">Socials</h4>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/robbiestretch11/"><i class="fab fa-fw fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/robstretch_"><i class="fab fa-fw fa-twitter"></i></a>
                     </div>
